@@ -3,6 +3,8 @@
 
 -----
 ----- Abdullah Al-Queashi
+----- 01 Sha'ban 1445
+----- 10.02.2024
 ----- This is a small porject for Analysing The Walmart Database
 -----
 
